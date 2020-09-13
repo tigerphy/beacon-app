@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beacon App</string>
+    <string name="phone_bt_address">Phone\'s Bluetooth address: </string>
+    <string name="scan">SCAN</string>
+</resources>
